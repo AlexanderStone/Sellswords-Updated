@@ -381,5 +381,3 @@ Rise of the Usurper (SSU is built into RotU)
 Starting Perks by Background Updated (Concept already built in)
 While PTR is currently compatible, there are several bugs associated with it that cannot be fixed from the SSU side. Use at your own risk!
 
-** Licensing **
-Unless described otherwise, this work is distributed under MIT License and allows deriviative works to be created. https://opensource.org/license/MIT
